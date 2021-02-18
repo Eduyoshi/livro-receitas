@@ -1,4 +1,4 @@
-# Livro de recitas
+# Livro de receitas
 
 **_Olá esta é um livro de receitas_**
 
